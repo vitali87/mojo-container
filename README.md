@@ -1,7 +1,3 @@
-# Mojo Docker Setup
-
-Mojo is a package manager and virtual environment manager that currently supports only Ubuntu. To run Mojo on other systems, such as macOS or Windows, we use Docker to create a containerized Ubuntu environment.
-
 ## Prerequisites
 
 - Ensure Docker is installed on your system. You can download and install Docker from [https://www.docker.com/get-started](https://www.docker.com/get-started).
